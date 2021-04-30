@@ -1,5 +1,5 @@
 test:
-  name: i am from product microservice v III
+  name: i am from product microservice v III new again
 spring:
   data:
     mongodb:
